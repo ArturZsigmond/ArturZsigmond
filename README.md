@@ -36,5 +36,5 @@ I'm a passionate developer interested in programming, games, and cars. Currently
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/artur-erik-zsigmond-80667a333)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-erik-zsigmond-80667a333)  
 📧 Email: artur.zsigmond1906@gmail.com
