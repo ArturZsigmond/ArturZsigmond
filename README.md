@@ -16,6 +16,7 @@ I'm a passionate developer interested in programming, games, and cars. Currently
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat&logo=assemblyscript&logoColor=white)
 
 
